@@ -4870,6 +4870,10 @@ gatsby-plugin-emotion@^4.1.0:
     "@babel/runtime" "^7.6.0"
     "@emotion/babel-preset-css-prop" "^10.0.17"
 
+gatsby-plugin-force-file-loader@^0.1.0:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-force-file-loader/-/gatsby-plugin-force-file-loader-0.1.1.tgz#d05014150123a57713894865591a4d6c4d68236a"
+
 gatsby-plugin-google-analytics@^2.1.6:
   version "2.1.17"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-google-analytics/-/gatsby-plugin-google-analytics-2.1.17.tgz#aaa030ff063b356e9413cfcb4b30cfcc1910de3b"
