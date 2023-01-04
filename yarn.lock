@@ -4870,6 +4870,10 @@ gatsby-plugin-emotion@^4.1.0:
     "@babel/runtime" "^7.6.0"
     "@emotion/babel-preset-css-prop" "^10.0.17"
 
+gatsby-plugin-force-file-loader@^0.1.0:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-force-file-loader/-/gatsby-plugin-force-file-loader-0.1.1.tgz#d05014150123a57713894865591a4d6c4d68236a"
+
 gatsby-plugin-google-analytics@^2.1.6:
   version "2.1.17"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-google-analytics/-/gatsby-plugin-google-analytics-2.1.17.tgz#aaa030ff063b356e9413cfcb4b30cfcc1910de3b"
@@ -6655,10 +6659,8 @@ json5@^1.0.1:
     minimist "^1.2.0"
 
 json5@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/json5/-/json5-2.1.0.tgz#e7a0c62c48285c628d20a10b85c89bb807c32850"
-  dependencies:
-    minimist "^1.2.0"
+  version "2.2.3"
+  resolved "https://registry.yarnpkg.com/json5/-/json5-2.2.3.tgz#78cd6f1a19bdc12b73db5ad0c61efd66c1e29283"
 
 jsonfile@^4.0.0:
   version "4.0.0"
